@@ -1,2 +1,2 @@
 # For-MPCE_2024
-# This folder contains the code and data for the paper
+# This folder contains the parameters and code for the paper
